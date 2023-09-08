@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b2435d42.css",
+    "main.js": "/portfolio/static/js/main.97774a01.js",
+    "static/media/hercules.png": "/portfolio/static/media/hercules.24f7a5b0ab0c69c4d8e5.png",
+    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/bdl.png": "/portfolio/static/media/bdl.d8e301da00084ffa05bd.png",
+    "static/media/python.png": "/portfolio/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/persona.png": "/portfolio/static/media/persona.f5022f3d1aee36c1b34e.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.f34d2c272e061438810a.pdf",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/homeAssistant.png": "/portfolio/static/media/homeAssistant.7fcb13317306bb9240b5.png",
+    "static/media/firebase.png": "/portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/github2.png": "/portfolio/static/media/github2.baa8492565d00f6df19c.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.png": "/portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/portfolio/index.html",
+    "main.b2435d42.css.map": "/portfolio/static/css/main.b2435d42.css.map",
+    "main.97774a01.js.map": "/portfolio/static/js/main.97774a01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2435d42.css",
+    "static/js/main.97774a01.js"
+  ]
+}
